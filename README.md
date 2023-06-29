@@ -2,6 +2,11 @@
 
 AdminPit is a comprehensive web-based application designed to streamline company management and facilitate efficient administrative processes. It provides administrators with a centralized dashboard that integrates key functionalities and data points, enabling them to effectively monitor and analyze various aspects of the organization.
 
+![Image Description](https://imgur.com/L8YwTtY)
+
+
+
+
 ## Key Features
 
 - **Centralized Dashboard**: Access critical information such as employee data, product information, sales analytics, profit tracking, and customer management from a single dashboard.
