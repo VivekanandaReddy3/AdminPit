@@ -20,4 +20,4 @@ AdminPit is a comprehensive web-based application designed to streamline company
 
 1. Clone the repository.
    ```shell
-   git clone https://github.com/your-username/adminpit.git
+   git clone https://github.com/VivekanandaReddy3/adminpit.git
